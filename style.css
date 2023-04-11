@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "montserrat",sans-serif;
+}
+body{
+    background: url(https://lethach.com/wp-content/uploads/2020/01/496fc001-fdcc-457a-abff-241ab71e4c1c.png);
+    background-size: cover;
+    padding: 40px 0;
+    color:black;
+    max-width: 600px;
+    margin: auto;
+    padding: 0 10px;
+    overflow: hidden;
+    text-align: center;
+
+}
+label{
+    font-size: x-large;
+    text-align: center;
+}
+#UPDATE{
+    text-align:center ;
+}
+
+#id{
+    
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    background:pink;
+    padding: 20px 40px;
+    outline: none;
+    color:black;
+    font-weight: bold;
+    transition: 0.5s;
+    text-align:center ;
+}
+#name{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    background: pink;
+    padding: 20px 40px;
+    outline: none;
+    color: black;
+    font-weight: bold;
+    transition: 0.5s;
+    text-align:center ;
+}
+#age{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    background: pink;
+    padding: 20px 40px;
+    outline: none;
+    color: black;
+    transition: 0.5s;
+    font-weight: bold;
+    text-align:center ;
+}
+button{
+ font-size: x-large;
+ background-color: aqua;
+ font-weight: bold;
+    
+    
+
+}
+div{
+    text-align: center;
+}
